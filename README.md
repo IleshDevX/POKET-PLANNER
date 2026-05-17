@@ -104,6 +104,8 @@ graph TD
     G --> H[MongoDB]
 ```
 
+---
+
 ```mermaid
 graph LR
     A[Daily cron job] --> B[Aggregate monthly data]
